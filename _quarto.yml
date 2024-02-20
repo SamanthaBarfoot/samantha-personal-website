@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Samantha Barfoot"
+  page-navigation: true
+  navbar:
+    background: "light"
+    left:
+      - href: index.qmd
+        text: Home
+      - papers.qmd
+      - text: "CV"
+        file: SamanthaBarfootResume.pdf
+  page-footer: 
+    right: 
+      - icon: github
+        href: https://github.com/SamanthaBarfoot
+    border: true
+    background: "light"
+      
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    
+
+editor: visual
+

@@ -1,0 +1,16 @@
+---
+title: "Samantha Barfoot"
+image: avatar1.png
+about: 
+  template: trestles
+  links: 
+    - text: GitHub
+      url: "https://github.com/SamanthaBarfoot"
+comments: false
+---
+
+I am a student in the Bachelor of Information program at the University of Toronto. I started by undergrad journey in Civil Engineering at UofT where I completed two years. I then switched to an Arts and Science degree in Physical Geography for one year and eventually the BI program.
+
+I have experience with programming languages such as Python and Java and through the BI program I am learning HTML, CSS, and R. From my experience in the Civil Engineering program, I am familiar with software such as AutoCAD and SketchUp.
+
+Due to my unique background of Civil Engineering and Physical Geography, I have a solid background in technical subjects such as math and physics.
