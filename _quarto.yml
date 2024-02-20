@@ -12,7 +12,7 @@ website:
         text: Home
       - papers.qmd
       - text: "CV"
-        file: SamanthaBarfootResume.pdf
+        file: samanthabarfootcv.pdf
   page-footer: 
     right: 
       - icon: github
