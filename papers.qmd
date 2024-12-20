@@ -2,6 +2,8 @@
 title: "Papers"
 ---
 
+Barfoot, S. (2024). Is it Better to be a Moose or a Black Bear? An Analysis of Ontario Wildlife Harvest and Active Hunter Data from 2006 to 2023. *Course Paper, INF312 – Worlds Become Data. \[[available](https://github.com/SamanthaBarfoot/wildlife_hunting.git)\]*
+
 Barfoot, S. (2024). Analysis of the Water Quality of Toronto’s Beaches from 2007 to 2023. *Course Paper, INF312 – Worlds Become Data. \[[available](https://github.com/SamanthaBarfoot/paper-water-quality-analysis.git)\]*
 
 Barfoot, S, Becker, B, Mohammadi, M. (2024). Gender, Age, and Peer Influence on Food Incentives in Elementary Schools. *Course Paper, INF312 – Worlds Become Data. \[[available](https://github.com/SamanthaBarfoot/food-incentive-analysis.git)\]*
